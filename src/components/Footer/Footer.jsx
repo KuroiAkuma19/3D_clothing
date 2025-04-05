@@ -50,11 +50,10 @@ const Footer = () => {
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-1">
               <FiShoppingBag size="30" />
               {/* <img src={footerLogo} alt="" className="max-w-[50px]" /> */}
-              ShopMe
+              3DClothing
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              blah blah blah blah blah blah blah blah blah blah
             </p>
           </div>
 
@@ -112,11 +111,11 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaMapLocationDot />
-                  <p>Indore, Madhya Pradesh</p>
+                  <p> Borivali West, Mumbai, Maharashtra</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />
-                  <p>+91 123456789</p>
+                  <p>+91 9167370622</p>
                 </div>
               </div>
             </div>

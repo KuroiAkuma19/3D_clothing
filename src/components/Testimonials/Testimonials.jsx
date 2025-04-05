@@ -4,26 +4,26 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Kenneth Fernandes",
+    text: "CEO hu BC!!!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Leslie Fernando",
+    text: "The design of this jacket is sleek and stylish. It has that high-end streetwear vibe while still being functional. Definitely a head-turner",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Virat Kohli",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "AbhijeetKumar Gond",
+    text: "The graphic design on this hoodie is so eye-catching! It’s trendy but not over-the-top, making it perfect for everyday wear. The attention to detail is amazing",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
-    name: "Sachin Tendulkar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Arnold Fernandes",
+    text: "The design on this t-shirt is stunning! The print quality is top-notch, with vibrant colors that don’t fade even after multiple washes. Got so many compliments",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -79,8 +79,7 @@ const Testimonials = () => {
             Testimonials
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+            2 Rupay ke College keliye 1000 rupay ka Website
           </p>
         </div>
 
